@@ -1,6 +1,6 @@
 ## 我的世界MineFurryMod
 
----
+--- 
 
 > ！注意 ！
 >> * 该Mod为 MineFurry 的Fabric移植版
