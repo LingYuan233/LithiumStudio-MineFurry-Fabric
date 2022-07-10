@@ -1,0 +1,19 @@
+{
+  "itemGroup.mf.mf_group": "Mine Furry",
+  "itemGroup.mf.mf_record_group": "Mine Furry-Records",
+
+  "item.mf.record_be_aware_of_furries": "Record",
+  "item.mf.record_be_aware_of_furries.desc": "大虎尾灵渏-小心福瑞控",
+  "item.mf.record_be_aware_of_furries.tooltip": "大虎尾灵渏-小心福瑞控",
+
+  "item.mf.item_fur": "Fur",
+  "item.mf.item_glue": "Glue",
+  "item.mf.item_cloth": "Fabric",
+  "item.mf.duct_tape": "Duct Tape",
+  "item.mf.item_fabric": "Item Fabric",
+  "item.mf.dtd_body": "DTD-Body",
+  "item.mf.dtd_legs": "DTD-Legs",
+  "item.mf.item_cloth.tooltip": "Huh?",
+  "item.mf.item_glue.tooltip": "Sticky",
+  "item.mf.item_fur.tooltip": "Furry, that's great"
+}

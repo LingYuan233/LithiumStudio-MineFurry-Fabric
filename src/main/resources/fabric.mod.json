@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "mf",
+  "version": "0.0-22.7.1-40.1.58-coRelease",
+
+  "name": "Mine Furry",
+  "description": "Mine Furry Mod (Fabric reforged)",
+  "authors": [
+    "LithiumStudio(Ling_Yuan)"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "GNU GPL",
+  "icon": "assets/mf/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "lithiumstudio.mf.MineFurry"
+    ]
+  },
+  "mixins": [
+    "mf.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

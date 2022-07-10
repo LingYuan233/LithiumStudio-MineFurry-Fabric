@@ -1,0 +1,20 @@
+{
+  "itemGroup.mf.mf_group": "我的福瑞",
+  "itemGroup.mf.mf_record_group": "我的福瑞-唱片",
+
+  "item.mf.record_be_aware_of_furries": "唱片",
+  "item.mf.record_be_aware_of_furries.desc": "大虎尾灵渏-小心福瑞控",
+  "item.mf.record_be_aware_of_furries.tooltip": "大虎尾灵渏-小心福瑞控",
+
+  "item.mf.item_fur": "毛茸茸",
+  "item.mf.item_glue": "胶水",
+  "item.mf.item_cloth": "布",
+  "item.mf.duct_tape": "布基胶带",
+  "item.mf.item_fabric": "毛布",
+  "item.mf.dtd_body": "DTD-身体",
+  "item.mf.dtd_legs": "DTD-腿部",
+  "item.mf.item_cloth.tooltip": "哈？",
+  "item.mf.item_glue.tooltip": "粘嗒嗒",
+  "item.mf.item_fur.tooltip": "毛茸茸的，好棒"
+}
+
